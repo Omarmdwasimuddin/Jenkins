@@ -7,3 +7,4 @@
 #### Class 05: [Jenkins Automate Task](https://github.com/Omarmdwasimuddin/Jenkins-Automate-Task)
 #### Class 06: [Jenkins File](https://github.com/Omarmdwasimuddin/Jenkins-File)
 #### Class 07: [Build CI/CD Pipeline](https://github.com/Omarmdwasimuddin/Jenkins-CI-CD-Pipeline)
+#### Class 08: [Install Jenkins on buntu](https://github.com/Omarmdwasimuddin/Jenkins-on-Ubuntu-Install)

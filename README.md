@@ -80,25 +80,3 @@
 🔗 [https://github.com/Omarmdwasimuddin/Jenkins-CI-CD-Pipeline-with-AWS-EC2](https://github.com/Omarmdwasimuddin/Jenkins-CI-CD-Pipeline-with-AWS-EC2)
 
 ---
-
-## Learning Path
-
-```
-CI/CD ধারণা (01)
-      ↓
-Jenkins Install (02)
-      ↓
-প্রথম Job তৈরি (03)
-      ↓
-GitHub Integration (04)
-      ↓
-Automate Task (05)
-      ↓
-Jenkinsfile লেখা (06)
-      ↓
-CI/CD Pipeline Build (07)
-      ↓
-Ubuntu তে Jenkins (08)
-      ↓
-AWS EC2 + Next.js Deploy (09) ✅
-```
